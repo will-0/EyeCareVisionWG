@@ -4,7 +4,7 @@ The Eye Care and Vision Working Group for the OHDSI community was formed in 2022
 
 ## [Meetings (click to view all)](https://github.com/will-0/EyeCareVisionWG/tree/main/meetings/README.md)
 
-Next meeting: 06/01/2024 (link: [Microsoft Teams](https://www.example.com)
+Next meeting: 06/01/2024 (link: [Microsoft Teams](https://www.example.com))
 
 ## Links
 
