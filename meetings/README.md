@@ -5,7 +5,8 @@ This folder will contain information on the Eye Care and Vision Working Group me
 ## Next meeting
 
 Date: 06/01/2024\
-Topic: Eye Care and Vision WG meeting\
+Topic: Eye Care and Vision WG meeting
+
 Link: [Microsoft Teams](https://www.example.com)
 
 ## Previous Meetings
