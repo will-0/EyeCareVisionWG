@@ -11,4 +11,5 @@ Link: [Microsoft Teams](https://www.example.com)
 
 ## Previous Meetings
 
+* [06/01/2024](https://github.com/will-0/EyeCareVisionWG/tree/main/meetings/06-01-2024)
 * [05/30/2024](https://github.com/will-0/EyeCareVisionWG/tree/main/meetings/05-30-2024)
